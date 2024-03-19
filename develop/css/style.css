@@ -50,7 +50,7 @@ body{
     background-color: rgb(99, 150, 194);
 }
 
-.weather-input-cities button{
+.searched-cities button{
     height: 55px;
     width: 100%;
     margin: 10px 0;
